@@ -37,6 +37,12 @@ nav {
 ul {
   list-style-type: none;
   padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.home-link {
+  margin-right: auto;
 }
 
 li {
